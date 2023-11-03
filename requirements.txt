@@ -5,3 +5,5 @@ matplotlib
 seaborn
 
 -e .
+
+# -e . calls setup.py internally.
