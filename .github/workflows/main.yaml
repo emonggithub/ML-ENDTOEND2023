@@ -1,0 +1,7 @@
+- main
+
+
+
+jobs:
+  build-and-push-ecr-image:
+    name: Build Image
