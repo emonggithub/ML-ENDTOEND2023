@@ -5,6 +5,4 @@ matplotlib
 seaborn
 Flask
 
--e .
-
-# -e . calls setup.py internally.
+# -e .
