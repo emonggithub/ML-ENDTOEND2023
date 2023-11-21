@@ -6,4 +6,5 @@ seaborn
 Flask
 mlflow
 dvc
+python.dotenv
 # -e .
