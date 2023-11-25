@@ -43,9 +43,9 @@ MLFLOW_TRACKING_USERNAME=emonggithub \
 MLFLOW_TRACKING_PASSWORD=047a9ceb86ea43f33e46988c325260feac5d48ce\
 python script.py
 
-'''
+```
 export MLFLOW_TRACKING_URI=https://dagshub.com/emonggithub
 export MLFLOW_TRACKING_USERNAME=emonggithub
 export MLFLOW_TRACKING_PASSWORD=047a9ceb86ea43f33e46988c325260feac5d48ce
-'''
+```
 
